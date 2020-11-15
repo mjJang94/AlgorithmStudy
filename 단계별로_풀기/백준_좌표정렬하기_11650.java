@@ -38,6 +38,5 @@ public class Main {
         for (int i = 0; i < N; i++) {
             System.out.println(arr[i][0] + " " + arr[i][1]);
         }
-
     }
 }
