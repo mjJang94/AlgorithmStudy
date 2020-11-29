@@ -17,7 +17,7 @@ public class Main {
         for (int i = 0; i < N; i++) {
             StringTokenizer stringTokenizer = new StringTokenizer(bufferedReader.readLine(), " ");
             arr[i][0] = Integer.parseInt(stringTokenizer.nextToken()); //몸무게
-            arr[i][1] = Integer.parseInt(stringTokenizer.nextToken()); //
+            arr[i][1] = Integer.parseInt(stringTokenizer.nextToken()); /키
         }
 
 
