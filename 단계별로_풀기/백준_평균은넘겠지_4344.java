@@ -19,7 +19,7 @@ public class Main {
 
         for (String s : arr) {
 
-            StringTokenizer st = new StringTokenizer(s," ");
+            StringTokenizer st = new StringTokenizer(s);
 
             int total = Integer.parseInt(st.nextToken());
             double sum = 0;
