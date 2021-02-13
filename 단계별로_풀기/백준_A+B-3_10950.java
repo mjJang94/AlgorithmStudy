@@ -16,7 +16,5 @@ public class Main {
 
             System.out.println(Integer.parseInt(stringTokenizer.nextToken()) + Integer.parseInt(stringTokenizer.nextToken()));
         }
-
-
     }
 }
